@@ -1,8 +1,10 @@
-#What to Glue#
+# What to Glue
 
 **negrito**
 _italico_
 
-##Lista##
+## Lista
 
  - Item 1
+ - [ ] Check
+ - [x] Check
